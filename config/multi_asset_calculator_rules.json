@@ -1,0 +1,28 @@
+{
+  "protocol_name": "ERTUGRUL_YZ_MULTI_ASSET_PARALLEL_CALCULATOR",
+  "updated_at": "2026-11-19T14:10:48.521108",
+  "max_parallel_slots": 3,
+  "slot_structure": {
+    "Slot_A": {
+      "name": "Ana Dalga Lider Varant (Örn: THYAO / TYACX.V)",
+      "allocation_pct": 50,
+      "min_target_tick": 1,
+      "strategy": "Pasif Pusu Limit Alış -> +1 Tick Satış"
+    },
+    "Slot_B": {
+      "name": "İkinci Likit Varant / Hisse (Örn: EREGL / AKBNK)",
+      "allocation_pct": 30,
+      "min_target_tick": 1,
+      "strategy": "Eşzamanlı Paralel Pusu"
+    },
+    "Slot_C": {
+      "name": "Fırsat / Rezerv / Arbitraj Slotu",
+      "allocation_pct": 20,
+      "min_target_tick": 1,
+      "strategy": "Hızlı Döngü Scalp"
+    }
+  },
+  "zero_loss_rule": true,
+  "auto_rebalance_on_cash_inflow": true,
+  "formula": "Lot = Floor((Kasa * AllocationPct / 100) / AlisFiyati)"
+}

@@ -1,0 +1,11 @@
+{
+  "active_cycle": 2,
+  "current_step": "WAITING_SELL_FILL",
+  "symbol": "TYACX.V",
+  "lot": 862,
+  "buy_price": 0.59,
+  "sell_price": 0.6,
+  "expected_cash": 517.2,
+  "total_realized_profit": 8.34,
+  "last_check_ts": "2026-11-19T15:19:02.666415"
+}

@@ -1,0 +1,22 @@
+{
+  "status": "ACTIVE",
+  "current_cash_capacity": 517.2,
+  "active_simulated_slots": {
+    "Slot_A": {
+      "capital": 258.6,
+      "target_asset": "TYACX.V",
+      "status": "OCCUPIED_862_LOT_SELLING"
+    },
+    "Slot_B": {
+      "capital": 155.16,
+      "target_asset": "EREGL/AKBNK_CALL",
+      "status": "READY"
+    },
+    "Slot_C": {
+      "capital": 103.44,
+      "target_asset": "RESERVE_SCALP",
+      "status": "READY"
+    }
+  },
+  "directive_note": "A hissesi al-sat yaparken B ve C hisselerinde eşzamanlı işlem açma yetkisi mühürlendi."
+}

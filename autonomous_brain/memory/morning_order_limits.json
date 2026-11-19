@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-19",
+  "inspection_time": "2026-11-19 12:32:14",
+  "symbol": "ATAIG.V",
+  "yesterday_close": 0.45,
+  "today_lower_limit": 0.38,
+  "today_upper_limit": 0.52,
+  "max_sellable_limit_price": 0.52,
+  "status": "LIMITS_VERIFIED",
+  "warning": "Emir girerken satis fiyati en fazla 0.52 TL olabilir. Daha yuksek fiyat yazilirsa sistem otomatik yuvarlar veya reddeder."
+}
