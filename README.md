@@ -4,6 +4,17 @@ Türkiye finansal piyasaları (**Borsa İstanbul - BIST, VİOP ve Varantlar**) i
 
 ---
 
+> [!CAUTION]
+> ### ⚖️ YASAL UYARI VE SORUMLULUK REDDİ (LEGAL DISCLAIMER)
+> **BURADA YER ALAN HİÇBİR BİLGİ, KOD, ALGORİTMA VEYA ANALİZ KESİNLİKLE BİR YATIRIM TAVSİYESİ DEĞİLDİR.**
+> 
+> Bu yazılım yalnızca **akademik, deneysel, eğitim ve yazılım mimarisi araştırma** amaçlarıyla geliştirilmiş açık kaynaklı bir projedir. Sermaye Piyasası Kurulu (SPK) mevzuatı kapsamında herhangi bir yatırım danışmanlığı faaliyeti içermez.
+> 
+> * Bu yazılımın, kodların, indikatörlerin veya botların kullanımından doğabilecek **hiçbir doğrudan veya dolaylı maddi/manevi zarardan, kâr kaybından, sermaye erimesinden veya teknik aksaklıktan proje sahibi, geliştiricileri veya katkı sağlayanlar KESİNLİKLE SORUMLU TUTULAMAZ.**
+> * Finansal piyasalarda (BIST, VIOP, Varant, Kripto vb.) işlem yapmak yüksek düzeyde sermaye kaybı riski taşır. Tüm finansal kararlar ve riskler **tamamen ve münhasıran kullanıcının kendi şahsi sorumluluğundadır.**
+
+---
+
 ## 🌟 Öne Çıkan Özellikler
 
 - **🛡️ 7/24 Kesintisiz Otonom Nöbetçi (Resilient Engine):** Bağlantı kopmalarına ve API gecikmelerine karşı *exponential backoff* algoritmasıyla kendi kendini onaran mimari.
@@ -63,7 +74,7 @@ Bu proje açık kaynaklıdır ve topluluk geliştirmesine açıktır!
 
 ---
 
-## ⚖️ Lisans ve Sorumluluk Reddi
-Bu yazılım eğitim ve araştırma amaçlı geliştirilmiştir. Kesinlikle yatırım tavsiyesi içermez. Gerçek piyasalardaki finansal risk kullanıcıya aittir.
+## ⚖️ Hukuki Muafiyet ve Lisans
+Bu yazılım MIT Lisansı kapsamında dağıtılmaktadır. Kodları kullanan, çoğaltan veya çalıştıran herkes yukarıdaki **Yasal Uyarı ve Sorumluluk Reddi** şartlarını peşinen, gayrikabili rücu kabul etmiş sayılır.
 
-**Geliştirici:** Ertuğrul YZ Ekosistemi
+**Kurucu:** Ertuğrul YZ Ekosistemi
