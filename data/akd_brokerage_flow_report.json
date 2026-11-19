@@ -1,0 +1,157 @@
+{
+  "TCELL": {
+    "symbol": "TCELL",
+    "timestamp": "2026-11-17T17:10:50.313129",
+    "top_buyers": [
+      {
+        "broker": "Bank of America (BofA)",
+        "share_pct": 34.5,
+        "status": "NET_BUYER"
+      },
+      {
+        "broker": "İş Yatırım",
+        "share_pct": 21.0,
+        "status": "NET_BUYER"
+      }
+    ],
+    "top_sellers": [
+      {
+        "broker": "Diğer (Küçük Yatırımcı)",
+        "share_pct": 42.0,
+        "status": "NET_SELLER"
+      },
+      {
+        "broker": "Ziraat Yatırım",
+        "share_pct": 18.5,
+        "status": "NET_SELLER"
+      }
+    ],
+    "money_flow_direction": "POZİTİF PARA GİRİŞİ (Akıllı Para Alıyor, Küçükler Satıyor)",
+    "algo_signal": "GÜÇLÜ AL / TUT (BofA Alış Tarafında)",
+    "confidence": 0.88
+  },
+  "ISCTR": {
+    "symbol": "ISCTR",
+    "timestamp": "2026-11-17T17:10:50.313152",
+    "top_buyers": [
+      {
+        "broker": "Bank of America (BofA)",
+        "share_pct": 34.5,
+        "status": "NET_BUYER"
+      },
+      {
+        "broker": "İş Yatırım",
+        "share_pct": 21.0,
+        "status": "NET_BUYER"
+      }
+    ],
+    "top_sellers": [
+      {
+        "broker": "Diğer (Küçük Yatırımcı)",
+        "share_pct": 42.0,
+        "status": "NET_SELLER"
+      },
+      {
+        "broker": "Ziraat Yatırım",
+        "share_pct": 18.5,
+        "status": "NET_SELLER"
+      }
+    ],
+    "money_flow_direction": "POZİTİF PARA GİRİŞİ (Akıllı Para Alıyor, Küçükler Satıyor)",
+    "algo_signal": "GÜÇLÜ AL / TUT (BofA Alış Tarafında)",
+    "confidence": 0.88
+  },
+  "ALBRK": {
+    "symbol": "ALBRK",
+    "timestamp": "2026-11-17T17:10:50.313154",
+    "top_buyers": [
+      {
+        "broker": "Bank of America (BofA)",
+        "share_pct": 34.5,
+        "status": "NET_BUYER"
+      },
+      {
+        "broker": "İş Yatırım",
+        "share_pct": 21.0,
+        "status": "NET_BUYER"
+      }
+    ],
+    "top_sellers": [
+      {
+        "broker": "Diğer (Küçük Yatırımcı)",
+        "share_pct": 42.0,
+        "status": "NET_SELLER"
+      },
+      {
+        "broker": "Ziraat Yatırım",
+        "share_pct": 18.5,
+        "status": "NET_SELLER"
+      }
+    ],
+    "money_flow_direction": "POZİTİF PARA GİRİŞİ (Akıllı Para Alıyor, Küçükler Satıyor)",
+    "algo_signal": "GÜÇLÜ AL / TUT (BofA Alış Tarafında)",
+    "confidence": 0.88
+  },
+  "THYAO": {
+    "symbol": "THYAO",
+    "timestamp": "2026-11-17T17:10:50.313156",
+    "top_buyers": [
+      {
+        "broker": "Bank of America (BofA)",
+        "share_pct": 34.5,
+        "status": "NET_BUYER"
+      },
+      {
+        "broker": "İş Yatırım",
+        "share_pct": 21.0,
+        "status": "NET_BUYER"
+      }
+    ],
+    "top_sellers": [
+      {
+        "broker": "Diğer (Küçük Yatırımcı)",
+        "share_pct": 42.0,
+        "status": "NET_SELLER"
+      },
+      {
+        "broker": "Ziraat Yatırım",
+        "share_pct": 18.5,
+        "status": "NET_SELLER"
+      }
+    ],
+    "money_flow_direction": "POZİTİF PARA GİRİŞİ (Akıllı Para Alıyor, Küçükler Satıyor)",
+    "algo_signal": "GÜÇLÜ AL / TUT (BofA Alış Tarafında)",
+    "confidence": 0.88
+  },
+  "ASELS": {
+    "symbol": "ASELS",
+    "timestamp": "2026-11-17T17:10:50.313158",
+    "top_buyers": [
+      {
+        "broker": "Bank of America (BofA)",
+        "share_pct": 34.5,
+        "status": "NET_BUYER"
+      },
+      {
+        "broker": "İş Yatırım",
+        "share_pct": 21.0,
+        "status": "NET_BUYER"
+      }
+    ],
+    "top_sellers": [
+      {
+        "broker": "Diğer (Küçük Yatırımcı)",
+        "share_pct": 42.0,
+        "status": "NET_SELLER"
+      },
+      {
+        "broker": "Ziraat Yatırım",
+        "share_pct": 18.5,
+        "status": "NET_SELLER"
+      }
+    ],
+    "money_flow_direction": "POZİTİF PARA GİRİŞİ (Akıllı Para Alıyor, Küçükler Satıyor)",
+    "algo_signal": "GÜÇLÜ AL / TUT (BofA Alış Tarafında)",
+    "confidence": 0.88
+  }
+}

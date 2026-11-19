@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-11-18T22:09:18.347589",
+  "brand": "Ertuğrul YZ",
+  "chairman": "Ertuğrul KÖKCE",
+  "portfolio": {
+    "total_value_try": 120.75,
+    "cash_try": 1.72,
+    "positions": [
+      {
+        "symbol": "TCELL",
+        "lot": 1,
+        "cost": 96.95,
+        "current": 97.3,
+        "pnl": "+0.35 TL",
+        "target": 101.5
+      },
+      {
+        "symbol": "ISCTR",
+        "lot": 1,
+        "cost": 13.2,
+        "current": 13.22,
+        "pnl": "+0.02 TL",
+        "target": "13.36 (LIMIT SATIŞ EMRİ AKTİF)"
+      },
+      {
+        "symbol": "ALBRK",
+        "lot": 1,
+        "cost": 8.51,
+        "current": 8.51,
+        "pnl": "0.00 TL",
+        "target": "8.85 (DİP DEĞER SKALP)"
+      }
+    ]
+  },
+  "learning": {
+    "total_experience_trades": 8678,
+    "status": "AKTİF SÜREKLİ ÖĞRENME AÇIK",
+    "q_table_leader": "bofa_order_flow (1.45)",
+    "scalp_chark": "hft_micro_scalp (1.405)"
+  },
+  "six_weapons_status": {
+    "scalping": "ALBRK & ISCTR devrede",
+    "trend": "TCELL korunuyor",
+    "warrant": "Midas uygunluk testi sonrası aktif",
+    "viop": "İzlemede",
+    "kap_news": "Anlık dinlemede",
+    "ipo": "Takvim taranıyor"
+  }
+}

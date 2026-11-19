@@ -1,0 +1,551 @@
+{
+  "scan_time": "2026-11-19 08:30:46",
+  "total_symbols_scanned": 50,
+  "liquid_opportunities": [
+    {
+      "symbol": "THYAO",
+      "rsi": 72.0,
+      "spread_pct": 0.25,
+      "daily_turnover_mln_tl": 407,
+      "scalp_score": 75.0
+    },
+    {
+      "symbol": "ASELS",
+      "rsi": 52.0,
+      "spread_pct": 0.25,
+      "daily_turnover_mln_tl": 387,
+      "scalp_score": 75.0
+    },
+    {
+      "symbol": "GARAN",
+      "rsi": 66.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 311,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "AKBNK",
+      "rsi": 50.0,
+      "spread_pct": 0.18,
+      "daily_turnover_mln_tl": 70,
+      "scalp_score": 82.0
+    },
+    {
+      "symbol": "ISCTR",
+      "rsi": 33.0,
+      "spread_pct": 0.21,
+      "daily_turnover_mln_tl": 143,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "YKBNK",
+      "rsi": 31.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 231,
+      "scalp_score": 101.0
+    },
+    {
+      "symbol": "KCHOL",
+      "rsi": 39.0,
+      "spread_pct": 0.17,
+      "daily_turnover_mln_tl": 59,
+      "scalp_score": 93.0
+    },
+    {
+      "symbol": "SAHOL",
+      "rsi": 37.0,
+      "spread_pct": 0.2,
+      "daily_turnover_mln_tl": 462,
+      "scalp_score": 90.0
+    },
+    {
+      "symbol": "TUPRS",
+      "rsi": 30.0,
+      "spread_pct": 0.23,
+      "daily_turnover_mln_tl": 455,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "EREGL",
+      "rsi": 40.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 105,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "FROTO",
+      "rsi": 37.0,
+      "spread_pct": 0.15,
+      "daily_turnover_mln_tl": 57,
+      "scalp_score": 95.0
+    },
+    {
+      "symbol": "TOASO",
+      "rsi": 48.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 113,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "BIMAS",
+      "rsi": 55.0,
+      "spread_pct": 0.23,
+      "daily_turnover_mln_tl": 255,
+      "scalp_score": 77.0
+    },
+    {
+      "symbol": "TCELL",
+      "rsi": 42.0,
+      "spread_pct": 0.15,
+      "daily_turnover_mln_tl": 467,
+      "scalp_score": 85.0
+    },
+    {
+      "symbol": "TTKOM",
+      "rsi": 57.0,
+      "spread_pct": 0.2,
+      "daily_turnover_mln_tl": 482,
+      "scalp_score": 80.0
+    },
+    {
+      "symbol": "SISE",
+      "rsi": 64.0,
+      "spread_pct": 0.22,
+      "daily_turnover_mln_tl": 354,
+      "scalp_score": 78.0
+    },
+    {
+      "symbol": "PETKM",
+      "rsi": 61.0,
+      "spread_pct": 0.19,
+      "daily_turnover_mln_tl": 81,
+      "scalp_score": 81.0
+    },
+    {
+      "symbol": "KOZAL",
+      "rsi": 44.0,
+      "spread_pct": 0.22,
+      "daily_turnover_mln_tl": 64,
+      "scalp_score": 78.0
+    },
+    {
+      "symbol": "KOZAA",
+      "rsi": 30.0,
+      "spread_pct": 0.08,
+      "daily_turnover_mln_tl": 410,
+      "scalp_score": 102.0
+    },
+    {
+      "symbol": "EKGYO",
+      "rsi": 33.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 98,
+      "scalp_score": 94.0
+    },
+    {
+      "symbol": "ENKAI",
+      "rsi": 46.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 291,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "GUBRF",
+      "rsi": 33.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 98,
+      "scalp_score": 94.0
+    },
+    {
+      "symbol": "HEKTS",
+      "rsi": 50.0,
+      "spread_pct": 0.08,
+      "daily_turnover_mln_tl": 160,
+      "scalp_score": 92.0
+    },
+    {
+      "symbol": "KRDMD",
+      "rsi": 35.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 55,
+      "scalp_score": 97.0
+    },
+    {
+      "symbol": "ODAS",
+      "rsi": 44.0,
+      "spread_pct": 0.12,
+      "daily_turnover_mln_tl": 244,
+      "scalp_score": 88.0
+    },
+    {
+      "symbol": "OYAKC",
+      "rsi": 61.0,
+      "spread_pct": 0.24,
+      "daily_turnover_mln_tl": 126,
+      "scalp_score": 76.0
+    },
+    {
+      "symbol": "PGSUS",
+      "rsi": 61.0,
+      "spread_pct": 0.14,
+      "daily_turnover_mln_tl": 396,
+      "scalp_score": 86.0
+    },
+    {
+      "symbol": "SASA",
+      "rsi": 57.0,
+      "spread_pct": 0.2,
+      "daily_turnover_mln_tl": 392,
+      "scalp_score": 80.0
+    },
+    {
+      "symbol": "SOKM",
+      "rsi": 43.0,
+      "spread_pct": 0.21,
+      "daily_turnover_mln_tl": 333,
+      "scalp_score": 79.0
+    },
+    {
+      "symbol": "TAVHL",
+      "rsi": 55.0,
+      "spread_pct": 0.18,
+      "daily_turnover_mln_tl": 120,
+      "scalp_score": 82.0
+    },
+    {
+      "symbol": "TKFEN",
+      "rsi": 65.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 265,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "VESTL",
+      "rsi": 68.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 403,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "ALARK",
+      "rsi": 45.0,
+      "spread_pct": 0.23,
+      "daily_turnover_mln_tl": 155,
+      "scalp_score": 77.0
+    },
+    {
+      "symbol": "ARCLK",
+      "rsi": 34.0,
+      "spread_pct": 0.22,
+      "daily_turnover_mln_tl": 144,
+      "scalp_score": 88.0
+    },
+    {
+      "symbol": "BRSAN",
+      "rsi": 65.0,
+      "spread_pct": 0.18,
+      "daily_turnover_mln_tl": 490,
+      "scalp_score": 82.0
+    },
+    {
+      "symbol": "CIMSA",
+      "rsi": 38.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 283,
+      "scalp_score": 99.0
+    },
+    {
+      "symbol": "DOHOL",
+      "rsi": 38.0,
+      "spread_pct": 0.21,
+      "daily_turnover_mln_tl": 463,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "ECILC",
+      "rsi": 31.0,
+      "spread_pct": 0.19,
+      "daily_turnover_mln_tl": 321,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "EGEEN",
+      "rsi": 39.0,
+      "spread_pct": 0.27,
+      "daily_turnover_mln_tl": 149,
+      "scalp_score": 83.0
+    },
+    {
+      "symbol": "ISGYO",
+      "rsi": 38.0,
+      "spread_pct": 0.26,
+      "daily_turnover_mln_tl": 148,
+      "scalp_score": 84.0
+    },
+    {
+      "symbol": "KARSN",
+      "rsi": 54.0,
+      "spread_pct": 0.17,
+      "daily_turnover_mln_tl": 119,
+      "scalp_score": 83.0
+    },
+    {
+      "symbol": "KONTR",
+      "rsi": 59.0,
+      "spread_pct": 0.17,
+      "daily_turnover_mln_tl": 259,
+      "scalp_score": 83.0
+    },
+    {
+      "symbol": "MGROS",
+      "rsi": 73.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 138,
+      "scalp_score": 84.0
+    },
+    {
+      "symbol": "SKBNK",
+      "rsi": 49.0,
+      "spread_pct": 0.27,
+      "daily_turnover_mln_tl": 69,
+      "scalp_score": 73.0
+    },
+    {
+      "symbol": "TSKB",
+      "rsi": 44.0,
+      "spread_pct": 0.27,
+      "daily_turnover_mln_tl": 199,
+      "scalp_score": 73.0
+    },
+    {
+      "symbol": "TURSG",
+      "rsi": 45.0,
+      "spread_pct": 0.18,
+      "daily_turnover_mln_tl": 470,
+      "scalp_score": 82.0
+    },
+    {
+      "symbol": "ULKER",
+      "rsi": 71.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 271,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "VAKBN",
+      "rsi": 38.0,
+      "spread_pct": 0.26,
+      "daily_turnover_mln_tl": 418,
+      "scalp_score": 84.0
+    },
+    {
+      "symbol": "VESBE",
+      "rsi": 49.0,
+      "spread_pct": 0.17,
+      "daily_turnover_mln_tl": 339,
+      "scalp_score": 83.0
+    },
+    {
+      "symbol": "ASTOR",
+      "rsi": 65.0,
+      "spread_pct": 0.23,
+      "daily_turnover_mln_tl": 355,
+      "scalp_score": 77.0
+    }
+  ],
+  "rsi_oversold_dips": [
+    {
+      "symbol": "ISCTR",
+      "rsi": 33.0,
+      "spread_pct": 0.21,
+      "daily_turnover_mln_tl": 143,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "YKBNK",
+      "rsi": 31.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 231,
+      "scalp_score": 101.0
+    },
+    {
+      "symbol": "TUPRS",
+      "rsi": 30.0,
+      "spread_pct": 0.23,
+      "daily_turnover_mln_tl": 455,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "KOZAA",
+      "rsi": 30.0,
+      "spread_pct": 0.08,
+      "daily_turnover_mln_tl": 410,
+      "scalp_score": 102.0
+    },
+    {
+      "symbol": "EKGYO",
+      "rsi": 33.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 98,
+      "scalp_score": 94.0
+    },
+    {
+      "symbol": "GUBRF",
+      "rsi": 33.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 98,
+      "scalp_score": 94.0
+    },
+    {
+      "symbol": "ARCLK",
+      "rsi": 34.0,
+      "spread_pct": 0.22,
+      "daily_turnover_mln_tl": 144,
+      "scalp_score": 88.0
+    },
+    {
+      "symbol": "ECILC",
+      "rsi": 31.0,
+      "spread_pct": 0.19,
+      "daily_turnover_mln_tl": 321,
+      "scalp_score": 91.0
+    }
+  ],
+  "rsi_overbought_peaks": [
+    {
+      "symbol": "THYAO",
+      "rsi": 72.0,
+      "spread_pct": 0.25,
+      "daily_turnover_mln_tl": 407,
+      "scalp_score": 75.0
+    },
+    {
+      "symbol": "MGROS",
+      "rsi": 73.0,
+      "spread_pct": 0.16,
+      "daily_turnover_mln_tl": 138,
+      "scalp_score": 84.0
+    },
+    {
+      "symbol": "ULKER",
+      "rsi": 71.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 271,
+      "scalp_score": 91.0
+    }
+  ],
+  "scalp_candidates": [
+    {
+      "symbol": "KOZAA",
+      "rsi": 30.0,
+      "spread_pct": 0.08,
+      "daily_turnover_mln_tl": 410,
+      "scalp_score": 102.0
+    },
+    {
+      "symbol": "YKBNK",
+      "rsi": 31.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 231,
+      "scalp_score": 101.0
+    },
+    {
+      "symbol": "CIMSA",
+      "rsi": 38.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 283,
+      "scalp_score": 99.0
+    },
+    {
+      "symbol": "KRDMD",
+      "rsi": 35.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 55,
+      "scalp_score": 97.0
+    },
+    {
+      "symbol": "FROTO",
+      "rsi": 37.0,
+      "spread_pct": 0.15,
+      "daily_turnover_mln_tl": 57,
+      "scalp_score": 95.0
+    },
+    {
+      "symbol": "HEKTS",
+      "rsi": 50.0,
+      "spread_pct": 0.08,
+      "daily_turnover_mln_tl": 160,
+      "scalp_score": 92.0
+    },
+    {
+      "symbol": "GARAN",
+      "rsi": 66.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 311,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "ENKAI",
+      "rsi": 46.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 291,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "ULKER",
+      "rsi": 71.0,
+      "spread_pct": 0.09,
+      "daily_turnover_mln_tl": 271,
+      "scalp_score": 91.0
+    },
+    {
+      "symbol": "TOASO",
+      "rsi": 48.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 113,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "VESTL",
+      "rsi": 68.0,
+      "spread_pct": 0.11,
+      "daily_turnover_mln_tl": 403,
+      "scalp_score": 89.0
+    },
+    {
+      "symbol": "ODAS",
+      "rsi": 44.0,
+      "spread_pct": 0.12,
+      "daily_turnover_mln_tl": 244,
+      "scalp_score": 88.0
+    },
+    {
+      "symbol": "EREGL",
+      "rsi": 40.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 105,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "TKFEN",
+      "rsi": 65.0,
+      "spread_pct": 0.13,
+      "daily_turnover_mln_tl": 265,
+      "scalp_score": 87.0
+    },
+    {
+      "symbol": "PGSUS",
+      "rsi": 61.0,
+      "spread_pct": 0.14,
+      "daily_turnover_mln_tl": 396,
+      "scalp_score": 86.0
+    },
+    {
+      "symbol": "TCELL",
+      "rsi": 42.0,
+      "spread_pct": 0.15,
+      "daily_turnover_mln_tl": 467,
+      "scalp_score": 85.0
+    }
+  ]
+}

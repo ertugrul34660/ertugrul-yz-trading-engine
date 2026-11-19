@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="50%" stop-color="#111A2E"/>
+      <stop offset="100%" stop-color="#060911"/>
+    </linearGradient>
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#0077B6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="url(#bgGrad)"/>
+
+  <!-- Outer Cyber Hexagon -->
+  <polygon points="256,44 432,140 432,332 256,428 80,332 80,140"
+           fill="none" stroke="url(#cyanGlow)" stroke-width="12" filter="url(#glow)"/>
+
+  <!-- Inner Hexagon Shield -->
+  <polygon points="256,74 404,156 404,316 256,398 108,316 108,156"
+           fill="#0F1B2D" stroke="#00B4D8" stroke-width="4" opacity="0.9"/>
+
+  <!-- Monogram 'E' -->
+  <path d="M150,164 H238 V190 H180 V222 H228 V248 H180 V282 H238 V308 H150 Z"
+        fill="#00E5FF" filter="url(#glow)"/>
+
+  <!-- Monogram 'Y' -->
+  <path d="M248,164 H276 L300,214 L324,164 H352 L314,240 V308 H286 V240 Z"
+        fill="#FFFFFF"/>
+
+  <!-- Monogram 'Z' Accent -->
+  <path d="M332,238 H382 L350,286 H384 V308 H326 L358,260 H332 Z"
+        fill="#00E5FF"/>
+
+  <!-- Brand Typography: ERTUĞRUL YZ -->
+  <text x="256" y="474" text-anchor="middle" fill="#E0FBFC"
+        font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="800"
+        font-size="38" letter-spacing="5">ERTUĞRUL YZ</text>
+</svg>

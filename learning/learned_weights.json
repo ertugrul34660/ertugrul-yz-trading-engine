@@ -1,0 +1,15 @@
+{
+  "system_score": 2980,
+  "accuracy_rate": 92.5,
+  "total_audits": 53,
+  "successful_calls": 49,
+  "failed_calls": 4,
+  "streak": 26,
+  "bofa_weight": 2.95,
+  "tradingview_weight": 1.6,
+  "rsi_weight": 2.5,
+  "supertrend_weight": 2.1,
+  "volume_weight": 1.7,
+  "news_weight": 1.0,
+  "last_audit_time": 0
+}

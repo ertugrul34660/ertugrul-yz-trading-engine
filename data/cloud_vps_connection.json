@@ -1,0 +1,9 @@
+{
+  "cloud_vps_enabled": true,
+  "cloud_repo": "https://github.com/ertugrul34660/ertugrul-yz-cloud-vps",
+  "live_actions_url": "https://github.com/ertugrul34660/ertugrul-yz-cloud-vps/actions",
+  "status": "ONLINE_ACTIVE",
+  "sync_interval_min": 15,
+  "last_synced_at": "2026-11-17T16:32:00",
+  "description": "Bu proje Ertugrul YZ 7/24 Kesintisiz Bulut VPS sistemine baglidir. Bilgisayar kapaliyken bulutta piyasa taramasi ve sinyal takibi devam eder."
+}

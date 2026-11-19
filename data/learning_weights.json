@@ -1,0 +1,18 @@
+{
+  "system_score": 2630,
+  "accuracy_rate": 89.5,
+  "total_audits": 57,
+  "successful_calls": 51,
+  "failed_calls": 6,
+  "streak": 8,
+  "bofa_weight": 3.1,
+  "tradingview_weight": 1.6,
+  "rsi_weight": 2.6,
+  "supertrend_weight": 2.1,
+  "volume_weight": 1.7,
+  "news_weight": 1.25,
+  "last_audit_time": 0,
+  "catalyst_order_weight": 3.2,
+  "cyclical_lag_penalty": 0.85,
+  "last_learned_at": "16.11.2026 12:41:50"
+}

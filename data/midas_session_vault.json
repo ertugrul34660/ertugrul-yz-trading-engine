@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-11-17T16:42:04.466296",
+  "target_url": "https://atlas.getmidas.com/dashboard/01a1e89d-c0c3-7c59-8736-c431ec2ee4e9",
+  "account_id": "01a1e89d-c0c3-7c59-8736-c431ec2ee4e9",
+  "auth_strategy": "PERSISTENT_BROWSER_PROFILE_AND_COOKIES",
+  "status": "ARMED_FOR_CLOUD_VPS",
+  "instructions": [
+    "1. Yerel Chrome/Chromium kullanıcı profili bulut VPS'e kopyalanır.",
+    "2. Headless Chromium --user-data-dir parametresi ile başlatılır.",
+    "3. atlas.getmidas.com SMS sormadan doğrudan portföy ekranında açılır."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "strategy": "10-DAKİKALIK HIZLI MOMENTUM SCALPING",
+  "start_time_iso": "2026-11-16T11:24:10.928065",
+  "start_time_str": "16.11.2026 11:24:10",
+  "duration_minutes": 10,
+  "initial_capital_tl": 10000.0,
+  "invested_capital_tl": 9628.5,
+  "cash_tl": 371.5,
+  "current_total_value_tl": 10019.5,
+  "pnl_tl": 19.5,
+  "pnl_pct": 0.19,
+  "positions": [
+    {
+      "symbol": "BIMAS",
+      "name": "BİM Birleşik Mağazalar",
+      "entry_price": 400.5,
+      "lots": 12,
+      "invested_tl": 4806.0,
+      "target_scalp": 403.5,
+      "stop_scalp": 398.0,
+      "weight_pct": 48.06,
+      "rationale": "Günün en yüksek pozitif momentumuna sahip hissesi (+%1.26), RSI 59 sağlıklı yükselişte.",
+      "current_price": 401.5,
+      "current_val_tl": 4818.0,
+      "pos_pnl_tl": 12.0,
+      "pos_pnl_pct": 0.25
+    },
+    {
+      "symbol": "THYAO",
+      "name": "Türk Hava Yolları",
+      "entry_price": 321.5,
+      "lots": 15,
+      "invested_tl": 4822.5,
+      "target_scalp": 323.5,
+      "stop_scalp": 319.5,
+      "weight_pct": 48.23,
+      "rationale": "Ulaştırma lideri, endekse karşı pozitif ayrışma (+%0.39), güçlü alıcı kademesi.",
+      "current_price": 322.0,
+      "current_val_tl": 4830.0,
+      "pos_pnl_tl": 7.5,
+      "pos_pnl_pct": 0.16
+    }
+  ],
+  "status": "COMPLETED",
+  "last_update_str": "16.11.2026 11:34:47",
+  "completed_at": "16.11.2026 11:34:25"
+}

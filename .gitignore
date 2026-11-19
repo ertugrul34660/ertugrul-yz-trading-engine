@@ -1,0 +1,30 @@
+# Güvenlik ve Gizlilik Dosyaları (GitHub'a ASLA YÜKLENMEZ)
+.env
+*.env
+config.json
+*credentials*
+*secret*
+*token*
+*.session
+
+# Kişisel Kütükler ve Gerçek Kasa Bakiyeleri
+personel_karne_ledger.json
+live_orders_ledger.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Loglar ve Geçici Dosyalar
+*.log
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+node_modules/
+
+# Sistem ve Editör Dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,54 @@
+{
+  "brief_date": "2026-11-19 08:14:47",
+  "target_session": "19 Kasım 2026 BIST Seansı",
+  "executive_summary": "Piyasa güne ılımlı pozitif açılışla başlama eğiliminde. 1. öncelik ATAIG.V 0,53 TL satış emrini girip 121 TL nakde dönmek.",
+  "global_sentiment": {
+    "us_futures": "POZİTİF (+%0.35)",
+    "brent_oil": "72.40 USD (Yatay/Sakin)",
+    "usd_try": "Stabil",
+    "global_verdict": "Açılış için zemin destekleyici, risk iştahı ılımlı pozitif."
+  },
+  "kap_intelligence": [
+    {
+      "symbol": "ASTOR",
+      "impact": "POZİTİF",
+      "note": "Dün yaşanan sert düşüş sonrası tepki alımı beklentisi ve yeni sözleşme potansiyeli."
+    },
+    {
+      "symbol": "THYAO",
+      "impact": "NÖTR-POZİTİF",
+      "note": "Yolcu doluluk oranlarında istikrarlı seyir, güçlü yabancı takas desteği."
+    },
+    {
+      "symbol": "ASELS",
+      "impact": "POZİTİF",
+      "note": "Savunma sanayi sipariş teslimatları, dip dönüş sinyali."
+    },
+    {
+      "symbol": "AKBNK",
+      "impact": "NÖTR",
+      "note": "Bankacılık endeksinde taban arayışı."
+    }
+  ],
+  "priority_trade_candidates": [
+    {
+      "symbol": "ATAIG.V (ASTOR Varantı)",
+      "action": "0.53 TL SATIŞI SAVUN",
+      "reason": "Elimizdeki 229 lot pozisyon 1 kademede kâr almak için tahtada hazır bekliyor.",
+      "target_cash_out": 121.37
+    },
+    {
+      "symbol": "THYAO",
+      "action": "KURUŞ SCALP İZLEME",
+      "reason": "BIST'in en dar makaslı (spread: %0.08) hissesi; nakit çıktığı an 1 kademe al-sat için 1. aday.",
+      "score": 95
+    },
+    {
+      "symbol": "ASELS",
+      "action": "DİP TEPKİSİ İZLEME",
+      "reason": "RSI 29 aşırı satım bölgesinde; yukarı tepkisi yüksek olasılık.",
+      "score": 90
+    }
+  ],
+  "routing_directive": "09:55 seans açılışında ATAIG.V 0.53 TL emrini gir; nakit kasaya girdiğinde THYAO / ASELS hızlı kuruş scalp tetiğini çek."
+}

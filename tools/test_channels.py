@@ -1,0 +1,35 @@
+import urllib.request
+import json
+
+url = 'http://127.0.0.1:5055/api/analyze?symbol=THYAO'
+req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+with urllib.request.urlopen(req, timeout=10) as r:
+    data = json.loads(r.read().decode('utf-8'))
+
+print('=== TITAN V7.0 API VERI KANALLARI DENETIMI ===')
+print('Sembol:', data.get('symbol'))
+print('Fiyat:', data.get('current_price'), 'TL')
+print('Degisim:', data.get('change_pct'), '%')
+print('Karar:', data.get('action'))
+print('Guven:', data.get('confidence'))
+print('Giris Seviyesi:', data.get('suggested_entry'))
+print('1. Hedef (TP1):', data.get('tp1_price'), f"({data.get('tp1_pct')})")
+print('2. Hedef (TP2):', data.get('tp2_price'), f"({data.get('tp2_pct')})")
+print('Stop-Loss:', data.get('stop_loss'), f"({data.get('risk_badge')})")
+print('Tavan / Taban:', data.get('bist_ceiling'), '/', data.get('bist_floor'))
+print('Pivot PP:', data.get('pivots', {}).get('pivot'))
+print('RSI:', data.get('rsi'))
+print('MACD:', data.get('macd_status'))
+print('Supertrend:', data.get('supertrend'))
+print('Hacim Anomali:', data.get('volume_surge'))
+print('BofA Takasi:', data.get('bofa_action'))
+print('MFI Para Akisi:', data.get('money_flow', {}).get('flow_status'))
+print('TradingView:', data.get('tv_signal'), f"({data.get('tv_score_raw')})")
+print('Net Kar:', data.get('fundamentals', {}).get('net_income_str'))
+print('Hasilat:', data.get('fundamentals', {}).get('revenue_str'))
+print('F/K:', data.get('fundamentals', {}).get('pe_ratio'))
+print('Sektor Durumu:', data.get('sector_info', {}).get('sector_status'))
+print('Doviz Kalkani:', data.get('macro_fx', {}).get('fx_status'))
+print('KAP Durumu:', data.get('kap_data', {}).get('kap_status'))
+print('Haber Puani:', data.get('news_index'), f"({data.get('news_sentiment')})")
+print('Analist Emri:', data.get('ai_comment'))

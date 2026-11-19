@@ -1,0 +1,9 @@
+{
+  "mode": "ULTRA_FAST_PENNY_SCALP",
+  "target_profit_ticks": 1,
+  "min_profit_pct": 0.3,
+  "exit_style": "INSTANT_PROFIT_TAKE",
+  "hold_time": "MINUTES_NOT_HOURS",
+  "leverage_focus": true,
+  "single_pool": true
+}

@@ -1,0 +1,27 @@
+{
+  "cycle": 1949,
+  "timestamp": "2026-11-18T22:09:36.384863",
+  "status": "SEANS_ICI_OGRENME_AKTIF",
+  "signals": {
+    "TCELL": {
+      "trend": "BULLISH",
+      "volatility": "STABLE",
+      "note": "97.60 TL üzerinde güçlü tutunuyor"
+    },
+    "ISCTR": {
+      "trend": "CONSOLIDATION",
+      "volatility": "LOW",
+      "note": "13.25 TL kâr hedefi bekleniyor"
+    },
+    "ALBRK": {
+      "trend": "ACCUMULATION",
+      "volatility": "LOW",
+      "note": "8.37 TL dip seviyesinde para girişi"
+    },
+    "TEHOL": {
+      "trend": "PARABOLIC_CEILING",
+      "volatility": "EXTREME",
+      "note": "Dün 2.20 tavan, bugün 2.42 tavan serisi"
+    }
+  }
+}

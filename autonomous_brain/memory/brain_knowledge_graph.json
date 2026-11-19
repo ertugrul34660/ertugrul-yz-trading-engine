@@ -1,0 +1,1421 @@
+{
+  "created_at": "2026-11-18T15:44:00.908115",
+  "total_cycles": 827,
+  "insights_learned": [
+    {
+      "timestamp": "2026-11-18 20:57:32",
+      "cycle": 628,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9884
+    },
+    {
+      "timestamp": "2026-11-18 20:58:02",
+      "cycle": 629,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.897
+    },
+    {
+      "timestamp": "2026-11-18 20:58:32",
+      "cycle": 630,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9192
+    },
+    {
+      "timestamp": "2026-11-18 20:59:02",
+      "cycle": 631,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9061
+    },
+    {
+      "timestamp": "2026-11-18 20:59:32",
+      "cycle": 632,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9542
+    },
+    {
+      "timestamp": "2026-11-18 21:00:02",
+      "cycle": 633,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9382
+    },
+    {
+      "timestamp": "2026-11-18 21:00:32",
+      "cycle": 634,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8527
+    },
+    {
+      "timestamp": "2026-11-18 21:01:02",
+      "cycle": 635,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9826
+    },
+    {
+      "timestamp": "2026-11-18 21:01:32",
+      "cycle": 636,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9412
+    },
+    {
+      "timestamp": "2026-11-18 21:02:02",
+      "cycle": 637,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8625
+    },
+    {
+      "timestamp": "2026-11-18 21:02:32",
+      "cycle": 638,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9507
+    },
+    {
+      "timestamp": "2026-11-18 21:03:02",
+      "cycle": 639,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9366
+    },
+    {
+      "timestamp": "2026-11-18 21:03:32",
+      "cycle": 640,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9886
+    },
+    {
+      "timestamp": "2026-11-18 21:04:02",
+      "cycle": 641,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9753
+    },
+    {
+      "timestamp": "2026-11-18 21:04:32",
+      "cycle": 642,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9469
+    },
+    {
+      "timestamp": "2026-11-18 21:05:02",
+      "cycle": 643,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8959
+    },
+    {
+      "timestamp": "2026-11-18 21:05:32",
+      "cycle": 644,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9737
+    },
+    {
+      "timestamp": "2026-11-18 21:06:02",
+      "cycle": 645,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9657
+    },
+    {
+      "timestamp": "2026-11-18 21:06:32",
+      "cycle": 646,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9149
+    },
+    {
+      "timestamp": "2026-11-18 21:07:02",
+      "cycle": 647,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9844
+    },
+    {
+      "timestamp": "2026-11-18 21:07:32",
+      "cycle": 648,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9341
+    },
+    {
+      "timestamp": "2026-11-18 21:08:02",
+      "cycle": 649,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9388
+    },
+    {
+      "timestamp": "2026-11-18 21:08:32",
+      "cycle": 650,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8679
+    },
+    {
+      "timestamp": "2026-11-18 21:09:02",
+      "cycle": 651,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8999
+    },
+    {
+      "timestamp": "2026-11-18 21:09:32",
+      "cycle": 652,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9185
+    },
+    {
+      "timestamp": "2026-11-18 21:10:02",
+      "cycle": 653,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8973
+    },
+    {
+      "timestamp": "2026-11-18 21:10:32",
+      "cycle": 654,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9645
+    },
+    {
+      "timestamp": "2026-11-18 21:11:02",
+      "cycle": 655,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8865
+    },
+    {
+      "timestamp": "2026-11-18 21:11:32",
+      "cycle": 656,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9074
+    },
+    {
+      "timestamp": "2026-11-18 21:12:02",
+      "cycle": 657,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8785
+    },
+    {
+      "timestamp": "2026-11-18 21:12:32",
+      "cycle": 658,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9278
+    },
+    {
+      "timestamp": "2026-11-18 21:13:02",
+      "cycle": 659,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9526
+    },
+    {
+      "timestamp": "2026-11-18 21:13:32",
+      "cycle": 660,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9791
+    },
+    {
+      "timestamp": "2026-11-18 21:14:02",
+      "cycle": 661,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8501
+    },
+    {
+      "timestamp": "2026-11-18 21:14:32",
+      "cycle": 662,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9789
+    },
+    {
+      "timestamp": "2026-11-18 21:15:02",
+      "cycle": 663,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9361
+    },
+    {
+      "timestamp": "2026-11-18 21:15:32",
+      "cycle": 664,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9091
+    },
+    {
+      "timestamp": "2026-11-18 21:16:02",
+      "cycle": 665,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8832
+    },
+    {
+      "timestamp": "2026-11-18 21:16:32",
+      "cycle": 666,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9037
+    },
+    {
+      "timestamp": "2026-11-18 21:17:02",
+      "cycle": 667,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9574
+    },
+    {
+      "timestamp": "2026-11-18 21:17:32",
+      "cycle": 668,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9809
+    },
+    {
+      "timestamp": "2026-11-18 21:18:02",
+      "cycle": 669,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9334
+    },
+    {
+      "timestamp": "2026-11-18 21:18:32",
+      "cycle": 670,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9079
+    },
+    {
+      "timestamp": "2026-11-18 21:19:02",
+      "cycle": 671,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9115
+    },
+    {
+      "timestamp": "2026-11-18 21:19:32",
+      "cycle": 672,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9257
+    },
+    {
+      "timestamp": "2026-11-18 21:20:02",
+      "cycle": 673,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9724
+    },
+    {
+      "timestamp": "2026-11-18 21:20:32",
+      "cycle": 674,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8511
+    },
+    {
+      "timestamp": "2026-11-18 21:21:02",
+      "cycle": 675,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8521
+    },
+    {
+      "timestamp": "2026-11-18 21:21:32",
+      "cycle": 676,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9833
+    },
+    {
+      "timestamp": "2026-11-18 21:22:02",
+      "cycle": 677,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9522
+    },
+    {
+      "timestamp": "2026-11-18 21:22:32",
+      "cycle": 678,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9253
+    },
+    {
+      "timestamp": "2026-11-18 21:23:02",
+      "cycle": 679,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9609
+    },
+    {
+      "timestamp": "2026-11-18 21:23:32",
+      "cycle": 680,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8874
+    },
+    {
+      "timestamp": "2026-11-18 21:24:02",
+      "cycle": 681,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9123
+    },
+    {
+      "timestamp": "2026-11-18 21:24:32",
+      "cycle": 682,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.96
+    },
+    {
+      "timestamp": "2026-11-18 21:25:02",
+      "cycle": 683,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9893
+    },
+    {
+      "timestamp": "2026-11-18 21:25:32",
+      "cycle": 684,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9574
+    },
+    {
+      "timestamp": "2026-11-18 21:26:02",
+      "cycle": 685,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9643
+    },
+    {
+      "timestamp": "2026-11-18 21:26:32",
+      "cycle": 686,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8512
+    },
+    {
+      "timestamp": "2026-11-18 21:27:02",
+      "cycle": 687,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9805
+    },
+    {
+      "timestamp": "2026-11-18 21:27:32",
+      "cycle": 688,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8708
+    },
+    {
+      "timestamp": "2026-11-18 21:28:02",
+      "cycle": 689,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9848
+    },
+    {
+      "timestamp": "2026-11-18 21:28:32",
+      "cycle": 690,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9192
+    },
+    {
+      "timestamp": "2026-11-18 21:29:02",
+      "cycle": 691,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9165
+    },
+    {
+      "timestamp": "2026-11-18 21:29:32",
+      "cycle": 692,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8631
+    },
+    {
+      "timestamp": "2026-11-18 21:30:02",
+      "cycle": 693,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8921
+    },
+    {
+      "timestamp": "2026-11-18 21:30:32",
+      "cycle": 694,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8502
+    },
+    {
+      "timestamp": "2026-11-18 21:31:02",
+      "cycle": 695,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9252
+    },
+    {
+      "timestamp": "2026-11-18 21:31:32",
+      "cycle": 696,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8928
+    },
+    {
+      "timestamp": "2026-11-18 21:32:02",
+      "cycle": 697,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9194
+    },
+    {
+      "timestamp": "2026-11-18 21:32:32",
+      "cycle": 698,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9743
+    },
+    {
+      "timestamp": "2026-11-18 21:33:02",
+      "cycle": 699,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8736
+    },
+    {
+      "timestamp": "2026-11-18 21:33:32",
+      "cycle": 700,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9583
+    },
+    {
+      "timestamp": "2026-11-18 21:34:02",
+      "cycle": 701,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8713
+    },
+    {
+      "timestamp": "2026-11-18 21:34:32",
+      "cycle": 702,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9121
+    },
+    {
+      "timestamp": "2026-11-18 21:35:02",
+      "cycle": 703,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9792
+    },
+    {
+      "timestamp": "2026-11-18 21:35:32",
+      "cycle": 704,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9105
+    },
+    {
+      "timestamp": "2026-11-18 21:36:02",
+      "cycle": 705,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9276
+    },
+    {
+      "timestamp": "2026-11-18 21:36:32",
+      "cycle": 706,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8779
+    },
+    {
+      "timestamp": "2026-11-18 21:37:02",
+      "cycle": 707,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9852
+    },
+    {
+      "timestamp": "2026-11-18 21:37:32",
+      "cycle": 708,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8886
+    },
+    {
+      "timestamp": "2026-11-18 21:38:02",
+      "cycle": 709,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9319
+    },
+    {
+      "timestamp": "2026-11-18 21:38:32",
+      "cycle": 710,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9251
+    },
+    {
+      "timestamp": "2026-11-18 21:39:02",
+      "cycle": 711,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8837
+    },
+    {
+      "timestamp": "2026-11-18 21:39:32",
+      "cycle": 712,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9334
+    },
+    {
+      "timestamp": "2026-11-18 21:40:02",
+      "cycle": 713,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9196
+    },
+    {
+      "timestamp": "2026-11-18 21:40:32",
+      "cycle": 714,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.864
+    },
+    {
+      "timestamp": "2026-11-18 21:41:02",
+      "cycle": 715,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9364
+    },
+    {
+      "timestamp": "2026-11-18 21:41:32",
+      "cycle": 716,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9887
+    },
+    {
+      "timestamp": "2026-11-18 21:42:02",
+      "cycle": 717,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9381
+    },
+    {
+      "timestamp": "2026-11-18 21:42:32",
+      "cycle": 718,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9174
+    },
+    {
+      "timestamp": "2026-11-18 21:43:02",
+      "cycle": 719,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9515
+    },
+    {
+      "timestamp": "2026-11-18 21:43:32",
+      "cycle": 720,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8832
+    },
+    {
+      "timestamp": "2026-11-18 21:44:02",
+      "cycle": 721,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9055
+    },
+    {
+      "timestamp": "2026-11-18 21:44:32",
+      "cycle": 722,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9144
+    },
+    {
+      "timestamp": "2026-11-18 21:45:02",
+      "cycle": 723,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8833
+    },
+    {
+      "timestamp": "2026-11-18 21:45:32",
+      "cycle": 724,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9893
+    },
+    {
+      "timestamp": "2026-11-18 21:46:02",
+      "cycle": 725,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9028
+    },
+    {
+      "timestamp": "2026-11-18 21:46:32",
+      "cycle": 726,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9273
+    },
+    {
+      "timestamp": "2026-11-18 21:47:02",
+      "cycle": 727,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9523
+    },
+    {
+      "timestamp": "2026-11-18 21:47:32",
+      "cycle": 728,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9661
+    },
+    {
+      "timestamp": "2026-11-18 21:48:02",
+      "cycle": 729,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.97
+    },
+    {
+      "timestamp": "2026-11-18 21:48:32",
+      "cycle": 730,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9336
+    },
+    {
+      "timestamp": "2026-11-18 21:49:02",
+      "cycle": 731,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9486
+    },
+    {
+      "timestamp": "2026-11-18 21:49:32",
+      "cycle": 732,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9536
+    },
+    {
+      "timestamp": "2026-11-18 21:50:02",
+      "cycle": 733,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9315
+    },
+    {
+      "timestamp": "2026-11-18 21:50:32",
+      "cycle": 734,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.904
+    },
+    {
+      "timestamp": "2026-11-18 21:51:02",
+      "cycle": 735,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9885
+    },
+    {
+      "timestamp": "2026-11-18 21:51:32",
+      "cycle": 736,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9103
+    },
+    {
+      "timestamp": "2026-11-18 21:52:02",
+      "cycle": 737,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8936
+    },
+    {
+      "timestamp": "2026-11-18 21:52:32",
+      "cycle": 738,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9174
+    },
+    {
+      "timestamp": "2026-11-18 21:53:02",
+      "cycle": 739,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9863
+    },
+    {
+      "timestamp": "2026-11-18 21:53:32",
+      "cycle": 740,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9102
+    },
+    {
+      "timestamp": "2026-11-18 21:54:02",
+      "cycle": 741,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9155
+    },
+    {
+      "timestamp": "2026-11-18 21:54:32",
+      "cycle": 742,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9533
+    },
+    {
+      "timestamp": "2026-11-18 21:55:02",
+      "cycle": 743,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9528
+    },
+    {
+      "timestamp": "2026-11-18 21:55:32",
+      "cycle": 744,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9335
+    },
+    {
+      "timestamp": "2026-11-18 21:56:02",
+      "cycle": 745,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9327
+    },
+    {
+      "timestamp": "2026-11-18 21:56:32",
+      "cycle": 746,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9073
+    },
+    {
+      "timestamp": "2026-11-18 21:57:02",
+      "cycle": 747,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9586
+    },
+    {
+      "timestamp": "2026-11-18 21:57:32",
+      "cycle": 748,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8874
+    },
+    {
+      "timestamp": "2026-11-18 21:58:02",
+      "cycle": 749,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9299
+    },
+    {
+      "timestamp": "2026-11-18 21:58:32",
+      "cycle": 750,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9463
+    },
+    {
+      "timestamp": "2026-11-18 21:59:02",
+      "cycle": 751,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.881
+    },
+    {
+      "timestamp": "2026-11-18 21:59:32",
+      "cycle": 752,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8615
+    },
+    {
+      "timestamp": "2026-11-18 22:00:02",
+      "cycle": 753,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.8708
+    },
+    {
+      "timestamp": "2026-11-18 22:00:32",
+      "cycle": 754,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8561
+    },
+    {
+      "timestamp": "2026-11-18 22:01:02",
+      "cycle": 755,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9503
+    },
+    {
+      "timestamp": "2026-11-18 22:01:32",
+      "cycle": 756,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9041
+    },
+    {
+      "timestamp": "2026-11-18 22:02:02",
+      "cycle": 757,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9793
+    },
+    {
+      "timestamp": "2026-11-18 22:02:32",
+      "cycle": 758,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9756
+    },
+    {
+      "timestamp": "2026-11-18 22:03:02",
+      "cycle": 759,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9044
+    },
+    {
+      "timestamp": "2026-11-18 22:03:32",
+      "cycle": 760,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9153
+    },
+    {
+      "timestamp": "2026-11-18 22:04:02",
+      "cycle": 761,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9352
+    },
+    {
+      "timestamp": "2026-11-18 22:04:32",
+      "cycle": 762,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9782
+    },
+    {
+      "timestamp": "2026-11-18 22:05:02",
+      "cycle": 763,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9028
+    },
+    {
+      "timestamp": "2026-11-18 22:05:32",
+      "cycle": 764,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9283
+    },
+    {
+      "timestamp": "2026-11-18 22:06:02",
+      "cycle": 765,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9182
+    },
+    {
+      "timestamp": "2026-11-18 22:06:32",
+      "cycle": 766,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9822
+    },
+    {
+      "timestamp": "2026-11-18 22:07:02",
+      "cycle": 767,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9221
+    },
+    {
+      "timestamp": "2026-11-18 22:07:32",
+      "cycle": 768,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9594
+    },
+    {
+      "timestamp": "2026-11-18 22:08:02",
+      "cycle": 769,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9281
+    },
+    {
+      "timestamp": "2026-11-18 22:08:32",
+      "cycle": 770,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9548
+    },
+    {
+      "timestamp": "2026-11-18 22:09:02",
+      "cycle": 771,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9463
+    },
+    {
+      "timestamp": "2026-11-18 22:09:32",
+      "cycle": 772,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9136
+    },
+    {
+      "timestamp": "2026-11-19 08:05:15",
+      "cycle": 773,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9406
+    },
+    {
+      "timestamp": "2026-11-19 08:05:45",
+      "cycle": 774,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.917
+    },
+    {
+      "timestamp": "2026-11-19 08:06:15",
+      "cycle": 775,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8711
+    },
+    {
+      "timestamp": "2026-11-19 08:06:45",
+      "cycle": 776,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9755
+    },
+    {
+      "timestamp": "2026-11-19 08:07:15",
+      "cycle": 777,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8664
+    },
+    {
+      "timestamp": "2026-11-19 08:07:45",
+      "cycle": 778,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9839
+    },
+    {
+      "timestamp": "2026-11-19 08:08:15",
+      "cycle": 779,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9022
+    },
+    {
+      "timestamp": "2026-11-19 08:08:45",
+      "cycle": 780,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9409
+    },
+    {
+      "timestamp": "2026-11-19 08:09:15",
+      "cycle": 781,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9723
+    },
+    {
+      "timestamp": "2026-11-19 08:09:45",
+      "cycle": 782,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9025
+    },
+    {
+      "timestamp": "2026-11-19 08:10:15",
+      "cycle": 783,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9899
+    },
+    {
+      "timestamp": "2026-11-19 08:10:45",
+      "cycle": 784,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8802
+    },
+    {
+      "timestamp": "2026-11-19 08:11:15",
+      "cycle": 785,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9092
+    },
+    {
+      "timestamp": "2026-11-19 08:11:45",
+      "cycle": 786,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8501
+    },
+    {
+      "timestamp": "2026-11-19 08:12:15",
+      "cycle": 787,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8628
+    },
+    {
+      "timestamp": "2026-11-19 08:12:45",
+      "cycle": 788,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9542
+    },
+    {
+      "timestamp": "2026-11-19 08:13:15",
+      "cycle": 789,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8648
+    },
+    {
+      "timestamp": "2026-11-19 08:13:45",
+      "cycle": 790,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9784
+    },
+    {
+      "timestamp": "2026-11-19 08:14:15",
+      "cycle": 791,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9677
+    },
+    {
+      "timestamp": "2026-11-19 08:14:45",
+      "cycle": 792,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9303
+    },
+    {
+      "timestamp": "2026-11-19 08:15:15",
+      "cycle": 793,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9039
+    },
+    {
+      "timestamp": "2026-11-19 08:15:45",
+      "cycle": 794,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.8816
+    },
+    {
+      "timestamp": "2026-11-19 08:16:15",
+      "cycle": 795,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8737
+    },
+    {
+      "timestamp": "2026-11-19 08:16:45",
+      "cycle": 796,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9585
+    },
+    {
+      "timestamp": "2026-11-19 08:17:15",
+      "cycle": 797,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9319
+    },
+    {
+      "timestamp": "2026-11-19 08:17:45",
+      "cycle": 798,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8632
+    },
+    {
+      "timestamp": "2026-11-19 08:18:15",
+      "cycle": 799,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8673
+    },
+    {
+      "timestamp": "2026-11-19 08:18:45",
+      "cycle": 800,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.864
+    },
+    {
+      "timestamp": "2026-11-19 08:19:15",
+      "cycle": 801,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9692
+    },
+    {
+      "timestamp": "2026-11-19 08:19:45",
+      "cycle": 802,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9385
+    },
+    {
+      "timestamp": "2026-11-19 08:20:15",
+      "cycle": 803,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.8867
+    },
+    {
+      "timestamp": "2026-11-19 08:20:45",
+      "cycle": 804,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9729
+    },
+    {
+      "timestamp": "2026-11-19 08:21:15",
+      "cycle": 805,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9569
+    },
+    {
+      "timestamp": "2026-11-19 08:21:45",
+      "cycle": 806,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8774
+    },
+    {
+      "timestamp": "2026-11-19 08:22:15",
+      "cycle": 807,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9547
+    },
+    {
+      "timestamp": "2026-11-19 08:22:45",
+      "cycle": 808,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9495
+    },
+    {
+      "timestamp": "2026-11-19 08:23:15",
+      "cycle": 809,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9305
+    },
+    {
+      "timestamp": "2026-11-19 08:23:45",
+      "cycle": 810,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9573
+    },
+    {
+      "timestamp": "2026-11-19 08:24:15",
+      "cycle": 811,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9892
+    },
+    {
+      "timestamp": "2026-11-19 08:24:45",
+      "cycle": 812,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9591
+    },
+    {
+      "timestamp": "2026-11-19 08:25:15",
+      "cycle": 813,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8588
+    },
+    {
+      "timestamp": "2026-11-19 08:25:45",
+      "cycle": 814,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Varantlarda 1 kademe al-sat kârlılığı: Alış/satış makası 1 kuruş olan likit piyasa yapıcı tahtaları taranmalı.",
+      "reinforcement_score": 0.9375
+    },
+    {
+      "timestamp": "2026-11-19 08:26:15",
+      "cycle": 815,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9871
+    },
+    {
+      "timestamp": "2026-11-19 08:26:45",
+      "cycle": 816,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8569
+    },
+    {
+      "timestamp": "2026-11-19 08:27:15",
+      "cycle": 817,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9231
+    },
+    {
+      "timestamp": "2026-11-19 08:27:45",
+      "cycle": 818,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9604
+    },
+    {
+      "timestamp": "2026-11-19 08:28:15",
+      "cycle": 819,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9578
+    },
+    {
+      "timestamp": "2026-11-19 08:28:45",
+      "cycle": 820,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Haber ve KAP akışında filtreleme: Şirket pay alımları ve sermaye artırımı duyurularının etki süresi.",
+      "reinforcement_score": 0.9879
+    },
+    {
+      "timestamp": "2026-11-19 08:29:15",
+      "cycle": 821,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.9378
+    },
+    {
+      "timestamp": "2026-11-19 08:29:45",
+      "cycle": 822,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8846
+    },
+    {
+      "timestamp": "2026-11-19 08:30:15",
+      "cycle": 823,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.8595
+    },
+    {
+      "timestamp": "2026-11-19 08:30:45",
+      "cycle": 824,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Kapanış seansı (17:40 - 18:05) volatilite sıçraması: Ertesi gün tavan potansiyeli olan derinlik modelleri.",
+      "reinforcement_score": 0.9431
+    },
+    {
+      "timestamp": "2026-11-19 08:31:15",
+      "cycle": 825,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "Psikolojik disiplin: Kârı gördüğü an cebe atan mikro-scalp sisteminin bileşik getiri gücü.",
+      "reinforcement_score": 0.8835
+    },
+    {
+      "timestamp": "2026-11-19 08:31:45",
+      "cycle": 826,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9157
+    },
+    {
+      "timestamp": "2026-11-19 08:32:15",
+      "cycle": 827,
+      "phase": "GECE_DERIN_ARASTIRMA_VE_SIMULASYON",
+      "insight": "BIST 30 bankacılık ve sanayi rotasyonu: ISCTR/THYAO korelasyonu ve z-skoru sapmaları.",
+      "reinforcement_score": 0.9091
+    }
+  ],
+  "market_regimes": {
+    "BULLISH_MOMENTUM": {
+      "win_rate": 0.65,
+      "preferred_strategy": "SCALP_CALL_WARRANT"
+    },
+    "CHOPPY_SIDEWAYS": {
+      "win_rate": 0.55,
+      "preferred_strategy": "PENNY_SPREAD_SCALP"
+    },
+    "BEARISH_DUMP": {
+      "win_rate": 0.7,
+      "preferred_strategy": "PUT_WARRANT_OR_CASH"
+    }
+  },
+  "q_table": {}
+}

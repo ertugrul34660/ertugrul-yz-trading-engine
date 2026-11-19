@@ -1,0 +1,21 @@
+{
+  "decision_id": "DEC-1296",
+  "timestamp": "2026-11-18T22:09:23.058360",
+  "selected_action": "HOLD_AND_STRIKE",
+  "primary_target": "ISCTR 13.25 TL Satış Eşleşmesini Bekle -> Anında 15 TL ile Yeni Dip Alımı Yap",
+  "delegated_tasks": [
+    {
+      "agent": "Midas Atlas Browser İcra Ajanı",
+      "task": "ISCTR 13.25 TL satış emrini canlı izle; eşleştiği saniye boşa çıkan ~15 TL ile ALBRK veya EKGYO alım penceresini aç."
+    },
+    {
+      "agent": "Risk & Stop Muhafızı",
+      "task": "TCELL için 96.50 TL altı sarkmaları denetle; kârı koru."
+    },
+    {
+      "agent": "Telegram Bildirim Ajanı",
+      "task": "Satış veya yeni alım gerçekleştiğinde Yönetim Kurulu Başkanı'nın telefonuna anında bildirim fırlat."
+    }
+  ],
+  "reasoning": "Mevcut portföy başa baş ve kâr bölgesindedir. En yüksek sermaye verimliliği ISCTR satışından gelecek ~15 TL nakitle ikinci mikro pozisyonu açmaktır."
+}

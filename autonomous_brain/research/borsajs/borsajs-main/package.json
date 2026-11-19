@@ -1,0 +1,57 @@
+{
+    "name": "borsajs",
+    "version": "0.3.0",
+    "description": "Türkiye financial markets data library, BIST stocks, KAP,VIOP, forex, crypto, investment funds, and more",
+    "type": "module",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./dist/index.js",
+            "types": "./dist/index.d.ts"
+        }
+    },
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc --watch",
+        "test": "npx tsx test/demo.ts",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "finance",
+        "stocks",
+        "bist",
+        "turkey",
+        "forex",
+        "crypto",
+        "investment-funds",
+        "economic-indicators",
+        "macroeconomic-indicators",
+        "türkiye",
+        "market-data"
+    ],
+    "author": "Mesut Piskin",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mesutpiskin/borsajs"
+    },
+    "bugs": {
+        "url": "https://github.com/mesutpiskin/borsajs/issues"
+    },
+    "homepage": "https://github.com/mesutpiskin/borsajs#readme",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12",
+        "ws": "^8.19.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.0",
+        "@types/ws": "^8.18.1",
+        "tsx": "^4.21.0",
+        "typescript": "^5.3.0"
+    }
+}

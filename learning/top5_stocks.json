@@ -1,0 +1,80 @@
+{
+  "timestamp": 1794809038.651689,
+  "stocks": [
+    {
+      "symbol": "KCHOL",
+      "action": "AL",
+      "action_class": "buy",
+      "badge_text": "GÜÇLÜ AL",
+      "current_price": "207.5 TL",
+      "suggested_entry": "207.50 TL",
+      "target_price": "229.02 TL",
+      "profit_badge": "+%10.37 KÂR",
+      "profit_num": 10.37,
+      "stop_loss": "201.28 TL",
+      "bofa_action": "BOFA DEV ALIMDA (SMART MONEY GİRİŞİ)",
+      "confidence": "%98",
+      "score_val": 12.1
+    },
+    {
+      "symbol": "GARAN",
+      "action": "AL",
+      "action_class": "buy",
+      "badge_text": "GÜÇLÜ AL",
+      "current_price": "150.3 TL",
+      "suggested_entry": "150.30 TL",
+      "target_price": "166.21 TL",
+      "profit_badge": "+%10.59 KÂR",
+      "profit_num": 10.59,
+      "stop_loss": "145.79 TL",
+      "bofa_action": "BOFA DEV ALIMDA (SMART MONEY GİRİŞİ)",
+      "confidence": "%98",
+      "score_val": 11.1
+    },
+    {
+      "symbol": "THYAO",
+      "action": "AL",
+      "action_class": "buy",
+      "badge_text": "GÜÇLÜ AL",
+      "current_price": "320.25 TL",
+      "suggested_entry": "320.25 TL",
+      "target_price": "350.90 TL",
+      "profit_badge": "+%9.57 KÂR",
+      "profit_num": 9.57,
+      "stop_loss": "310.64 TL",
+      "bofa_action": "BOFA DEV ALIMDA (SMART MONEY GİRİŞİ)",
+      "confidence": "%98",
+      "score_val": 10.2
+    },
+    {
+      "symbol": "TUPRS",
+      "action": "AL",
+      "action_class": "buy",
+      "badge_text": "GÜÇLÜ AL",
+      "current_price": "359.0 TL",
+      "suggested_entry": "359.00 TL",
+      "target_price": "392.70 TL",
+      "profit_badge": "+%9.39 KÂR",
+      "profit_num": 9.39,
+      "stop_loss": "348.23 TL",
+      "bofa_action": "BOFA DEV ALIMDA (SMART MONEY GİRİŞİ)",
+      "confidence": "%98",
+      "score_val": 9.3
+    },
+    {
+      "symbol": "PGSUS",
+      "action": "AL",
+      "action_class": "buy",
+      "badge_text": "GÜÇLÜ AL",
+      "current_price": "155.3 TL",
+      "suggested_entry": "155.30 TL",
+      "target_price": "173.07 TL",
+      "profit_badge": "+%11.44 KÂR",
+      "profit_num": 11.44,
+      "stop_loss": "150.64 TL",
+      "bofa_action": "BOFA DEV ALIMDA (SMART MONEY GİRİŞİ)",
+      "confidence": "%98",
+      "score_val": 8.5
+    }
+  ]
+}
